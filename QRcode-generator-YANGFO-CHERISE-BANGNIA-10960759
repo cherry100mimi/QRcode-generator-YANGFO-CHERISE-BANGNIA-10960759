@@ -1,0 +1,7 @@
+echo "# QRcode-generator-YANGFO-CHERISE-BANGNIA-10960759" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/cherry100mimi/QRcode-generator-YANGFO-CHERISE-BANGNIA-10960759.git
+git push -u origin main
